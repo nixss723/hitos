@@ -1,0 +1,14 @@
+com\recuperatorio\canciones\CancionesApplication.class
+com\recuperatorio\canciones\repository\ArtistaRepository.class
+com\recuperatorio\canciones\model\Artista.class
+com\recuperatorio\canciones\model\Disco.class
+com\recuperatorio\canciones\service\CancionService.class
+com\recuperatorio\canciones\repository\CancionRepository.class
+com\recuperatorio\canciones\model\Genero.class
+com\recuperatorio\canciones\model\Cancion.class
+com\recuperatorio\canciones\repository\DiscoRepository.class
+com\recuperatorio\canciones\controller\DiscoController.class
+com\recuperatorio\canciones\service\ArtistaService.class
+com\recuperatorio\canciones\controller\ArtistaController.class
+com\recuperatorio\canciones\controller\CancionController.class
+com\recuperatorio\canciones\service\DiscoService.class
